@@ -1,0 +1,1 @@
+Conflict detection and resolution for sensor network systems
